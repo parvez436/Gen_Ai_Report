@@ -1,0 +1,7 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+gradio
+numpy
+torch
+transformers
